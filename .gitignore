@@ -15,3 +15,5 @@ dist
 # Testing
 .tox
 .pytest_cache
+
+.pybuild/
