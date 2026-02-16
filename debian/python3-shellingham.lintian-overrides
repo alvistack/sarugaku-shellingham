@@ -1,0 +1,4 @@
+python3-shellingham: copyright-without-copyright-notice
+python3-shellingham: initial-upload-closes-no-bugs
+python3-shellingham: no-manual-page
+python3-shellingham: zero-byte-file-in-doc-directory
